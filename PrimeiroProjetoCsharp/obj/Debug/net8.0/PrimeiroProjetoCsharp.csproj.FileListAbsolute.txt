@@ -1,0 +1,15 @@
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net8.0\PrimeiroProjetoCsharp.exe
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net8.0\PrimeiroProjetoCsharp.deps.json
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net8.0\PrimeiroProjetoCsharp.runtimeconfig.json
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net8.0\PrimeiroProjetoCsharp.dll
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net8.0\PrimeiroProjetoCsharp.pdb
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\PrimeiroProjetoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\PrimeiroProjetoCsharp.AssemblyInfoInputs.cache
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\PrimeiroProjetoCsharp.AssemblyInfo.cs
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\PrimeiroProjetoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\PrimeiroProjetoCsharp.sourcelink.json
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\PrimeiroProjetoCsharp.dll
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\refint\PrimeiroProjetoCsharp.dll
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\PrimeiroProjetoCsharp.pdb
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\PrimeiroProjetoCsharp.genruntimeconfig.cache
+C:\Users\alexa\Código\Github\Csharp\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net8.0\ref\PrimeiroProjetoCsharp.dll
