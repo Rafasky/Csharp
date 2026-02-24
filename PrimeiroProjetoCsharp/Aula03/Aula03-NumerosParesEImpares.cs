@@ -3,19 +3,37 @@ using System.Collections.Generic;
 
 namespace Desafio;
 
-internal class Aula03_NumerosParesEImpares
+class NumerosParesEImpares
 {
     List<int> numeros = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-    for (int i = 0; i < numeros.Count; i++)
+    public void VerificarParesEImparesComFor()
     {
-        if (numeros[i] % 2 == 0)
+        for (int i = 0; i < numeros.Count; i++)
         {
-            Console.WriteLine($"{numeros[i]} é um número par.");
+            if (numeros[i] % 2 == 0)
+            {
+                Console.WriteLine($"{numeros[i]} é um número par.");
+            }
+            else
+            {
+                Console.WriteLine($"{numeros[i]} é um número ímpar.");
+            }
         }
-        else
+    }
+
+    public void VerificarParesEImparesComForEach()
+    {
+        foreach (int numero in numeros)
         {
-            Console.WriteLine($"{numeros[i]} é um número ímpar.");
+            if (numero % 2 == 0)
+            {
+                Console.WriteLine($"{numero} é um número par.");
+            }
+            else
+            {
+                Console.WriteLine($"{numero} é um número ímpar.");
+            }
         }
     }
 }
