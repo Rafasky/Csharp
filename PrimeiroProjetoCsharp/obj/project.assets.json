@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Código\\Github\\Csharp\\PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj",
       "projectName": "PrimeiroProjetoCsharp",
-      "projectPath": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj",
+      "projectPath": "C:\\Users\\alexa\\Código\\Github\\Csharp\\PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Código\\Github\\Csharp\\PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -73,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
