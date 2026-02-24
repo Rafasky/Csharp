@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Programa
+namespace Desafio;
+
+public class Programa
 {
-    static void Main()
+    public void PosicaoNaLista()
     {
         int notaMedia = 7;
 
@@ -12,7 +14,7 @@ class Programa
             Console.WriteLine("Aprovado");
         }
 
-        List<string> linguagensDeProgramacao = new List<string> {"C#", "Java", "JavaScript"};
+        List<string> linguagensDeProgramacao = new List<string> { "C#", "Java", "JavaScript" };
         Console.WriteLine(linguagensDeProgramacao[0]);
 
         Console.Write("Digite a posição da linguagem que quer: ");
