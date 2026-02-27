@@ -3,44 +3,64 @@
   "WorkspaceRootPath": "C:\\Alexandre\\GitHub\\Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\aula01\\aula01-horadapratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\aula01\\aula01-horadapratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\aula01\\aula01-numerosecreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\aula01\\aula01-numerosecreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\aula01\\aula01-posicaonalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\aula01\\aula01-posicaonalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-dicionarioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-dicionarioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\aula01\\aula01-screensound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\aula01\\aula01-screensound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-horadapratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-horadapratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-estoqueloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-estoqueloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-screensound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-screensound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-numerosecreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-numerosecreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|c:\\alexandre\\github\\csharp\\primeiroprojetocsharp\\curso01\\curso01-posicaonalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC2DAB4-B9F3-40E3-9BD6-09BAD690F595}|PrimeiroProjetoCsharp\\PrimeiroProjetoCsharp.csproj|solutionrelative:primeiroprojetocsharp\\curso01\\curso01-posicaonalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 163,
+      "VerticalTabListWidth": 197,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Program.cs",
               "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Program.cs",
               "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Program.cs",
               "RelativeToolTip": "PrimeiroProjetoCsharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T06:03:47.782Z",
               "IsPinned": true,
@@ -48,54 +68,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Aula01-HoraDaPratica.cs",
-              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Aula01\\Aula01-HoraDaPratica.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Aula01\\Aula01-HoraDaPratica.cs",
-              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Aula01\\Aula01-HoraDaPratica.cs",
-              "RelativeToolTip": "PrimeiroProjetoCsharp\\Aula01\\Aula01-HoraDaPratica.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Curso01-Carros.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-Carros.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-Carros.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-Carros.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-Carros.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T21:04:49.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aula01-PosicaoNaLista.cs",
-              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Aula01\\Aula01-PosicaoNaLista.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Aula01\\Aula01-PosicaoNaLista.cs",
-              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Aula01\\Aula01-PosicaoNaLista.cs",
-              "RelativeToolTip": "PrimeiroProjetoCsharp\\Aula01\\Aula01-PosicaoNaLista.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T16:10:10.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Aula01-NumeroSecreto.cs",
-              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Aula01\\Aula01-NumeroSecreto.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Aula01\\Aula01-NumeroSecreto.cs",
-              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Aula01\\Aula01-NumeroSecreto.cs",
-              "RelativeToolTip": "PrimeiroProjetoCsharp\\Aula01\\Aula01-NumeroSecreto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T16:10:10.086Z",
+              "WhenOpened": "2026-02-26T20:49:03.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Aula01-ScreenSound.cs",
-              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Aula01\\Aula01-ScreenSound.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Aula01\\Aula01-ScreenSound.cs",
-              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Aula01\\Aula01-ScreenSound.cs",
-              "RelativeToolTip": "PrimeiroProjetoCsharp\\Aula01\\Aula01-ScreenSound.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAlwFUAAABNAAAAAAAAAA==",
+              "Title": "Curso01-Login.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-Login.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-Login.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-Login.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-Login.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T16:10:09.292Z",
+              "WhenOpened": "2026-02-26T20:20:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Curso01-Quiz.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-Quiz.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-Quiz.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-Quiz.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:28:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Curso01-EstoqueLoja.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-EstoqueLoja.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-EstoqueLoja.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-EstoqueLoja.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-EstoqueLoja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T17:19:08.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Curso01-ScreenSound.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-ScreenSound.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-ScreenSound.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-ScreenSound.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-ScreenSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:03:36.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Curso01-NumeroSecreto.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-NumeroSecreto.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-NumeroSecreto.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-NumeroSecreto.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-NumeroSecreto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:03:36.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Curso01-PosicaoNaLista.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-PosicaoNaLista.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-PosicaoNaLista.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-PosicaoNaLista.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-PosicaoNaLista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:03:35.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Curso01-HoraDaPratica.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-HoraDaPratica.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-HoraDaPratica.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-HoraDaPratica.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-HoraDaPratica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:03:34.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso01-DicionarioAluno.cs",
+              "DocumentMoniker": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-DicionarioAluno.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoCsharp\\Curso01\\Curso01-DicionarioAluno.cs",
+              "ToolTip": "C:\\Alexandre\\GitHub\\Csharp\\PrimeiroProjetoCsharp\\Curso01\\Curso01-DicionarioAluno.cs",
+              "RelativeToolTip": "PrimeiroProjetoCsharp\\Curso01\\Curso01-DicionarioAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:03:33.175Z",
               "EditorCaption": ""
             }
           ]
