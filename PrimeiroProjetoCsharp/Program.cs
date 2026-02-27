@@ -11,4 +11,3 @@ Quiz quiz = new Quiz();
 SistemaDeLogin login = new SistemaDeLogin();
 Carros carro = new Carros();
 
-parOuImpar.VerificarParesEImparesComForEach();
