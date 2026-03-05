@@ -1,7 +1,5 @@
 ﻿using Desafio;
-using Destino;
-using ScreenSound;
 
-CalculaIdade calculadoraDeIdade = new CalculaIdade();
+ControleDeVidas controleDeVidas = new ControleDeVidas();
 
-calculadoraDeIdade.CalculaIdadeUser();
+controleDeVidas.joga();

@@ -7,13 +7,11 @@ class RegistroDoacoes
 {
     double valorRecebidoDoacao;
     bool doacaoAnonima;
-    List<char> tipoConta = ['P', 'C'];
+    string? tipoConta;
         
-    public void realizaDoacao() {
+    public void valorDoacao() {
         Console.Write("Digite o valor a doar: ");
-        double valorAReceber = double.Parse(Console.ReadLine()!);
-
-        verificaAnonimidade();
+        valorRecebidoDoacao = double.Parse(Console.ReadLine()!);
     }
 
     public void verificaAnonimidade()
@@ -32,6 +30,35 @@ class RegistroDoacoes
         {
             verificaAnonimidade();
         }
+    }
+
+    public void verificaTipoConta()
+    {
+        Console.Write("Digite o tipo de conta (P para conta poupança, C para conta corrente): ");
+        char tipo = char.Parse(Console.ReadLine()!);
+        if (tipo == 'p' || tipo == 'P')
+        {
+            tipoConta = "Conta poupança";
+        }
+        else if(tipo == 'c' || tipo == 'C')
+        {
+            tipoConta = "Conta corrente";
+        }
+        else
+        {
+            verificaTipoConta();
+        }
+    }
+
+    public void realizaDoacao()
+    {
+        valorDoacao();
+        verificaAnonimidade();
+        verificaTipoConta();
+
+        Console.WriteLine($"\nValor recebido: R${valorRecebidoDoacao}");
+        Console.WriteLine($"Doação anônima: {(doacaoAnonima ? "Sim" : "Não")}");
+        Console.WriteLine($"Tipo de conta: {tipoConta}");
     }
 }
 
