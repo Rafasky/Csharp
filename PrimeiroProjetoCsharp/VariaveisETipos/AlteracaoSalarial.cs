@@ -1,12 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace PrimeiroProjetoCsharp.VariaveisETipos
+namespace Desafio;
+
+class AlteracaoSalarial
 {
-    internal class AlteracaoSalarial
+    decimal salario;
+    decimal aumento;
+    decimal novoSalario;
+
+    public void reajusteSalarial()
     {
+        Console.Write("Digite o salário atual: ");
+        salario = Convert.ToDecimal(Console.ReadLine());
+        Console.Write("Digite o percentual de aumento: ");
+        aumento = Convert.ToDecimal(Console.ReadLine());
+        novoSalario = salario + (salario * aumento / 100);
+        Console.WriteLine($"O novo salário é: {novoSalario:C}");
     }
 }

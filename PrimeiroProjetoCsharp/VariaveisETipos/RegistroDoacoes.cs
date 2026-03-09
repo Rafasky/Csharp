@@ -32,10 +32,11 @@ class RegistroDoacoes
         }
     }
 
-    public void verificaTipoConta()
+    public string verificaTipoConta()
     {
         Console.Write("Digite o tipo de conta (P para conta poupança, C para conta corrente): ");
         char tipo = char.Parse(Console.ReadLine()!);
+
         if (tipo == 'p' || tipo == 'P')
         {
             tipoConta = "Conta poupança";
@@ -48,6 +49,13 @@ class RegistroDoacoes
         {
             verificaTipoConta();
         }
+
+        return tipo switch
+        {
+            'p' or 'P' => "Conta poupança",
+            'c' or 'C' => "Conta corrente",
+            _ => "Tipo não existe" + verificaTipoConta()
+        }; // esses dois primeiros tipos nao sao tao usando por criarem varias requisições, o idel é fazer em loop, como um while(true)
     }
 
     public void realizaDoacao()

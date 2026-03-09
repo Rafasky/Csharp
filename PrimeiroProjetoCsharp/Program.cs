@@ -1,5 +1,5 @@
 ﻿using Desafio;
 
-ControleDeVidas controleDeVidas = new ControleDeVidas();
+AutenticaUsuario autenticaUsuario = new AutenticaUsuario();
 
-controleDeVidas.joga();
+autenticaUsuario.Executar();
