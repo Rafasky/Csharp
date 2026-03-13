@@ -32,31 +32,41 @@ class AutenticaUsuario
         return $"Novo usuário {username} cadastrado com sucesso!";
     }
 
-    public string? acessarComoConvidado()
+    public string acessarComoConvidado()
     {
         return "Acesso concedido como convidado.";
     }
 
-    public string? sairDoSistema()
+    public string sairDoSistema()
     {
         return "Saindo do sistema. Até logo!";
     }
 
-    public string? menu()
+    public string menu()
     {
-        Console.WriteLine("\nO que você deseja?");
-        Console.WriteLine("1 - Cadastrar novo usuário");
-        Console.WriteLine("2 - Acessar como convidado");
-        Console.WriteLine("3 - Sair do sistema\n");
-        char resposta = Convert.ToChar(Console.ReadLine()!);
+        string resposta;
 
-        return resposta switch
+        do
         {
-            '1' => cadastrarUsuario(),
-            '2' => acessarComoConvidado(),
-            '3' => sairDoSistema(),
-            _ => menu()
-        };
+            Console.WriteLine("\nO que você deseja?");
+            Console.WriteLine("1 - Cadastrar novo usuário");
+            Console.WriteLine("2 - Acessar como convidado");
+            Console.WriteLine("3 - Sair do sistema\n");
+            resposta = Console.ReadLine()!;
+
+            switch (resposta)
+            {
+                case "1": 
+                    return cadastrarUsuario();
+                case "2": 
+                    return acessarComoConvidado();
+                case "3": 
+                    return sairDoSistema();
+                default: 
+                    Console.WriteLine("Opção inválida. Por favor, escolha uma opção válida.");
+                    break;
+            }
+        } while (true);
     }
 
     public void Executar()

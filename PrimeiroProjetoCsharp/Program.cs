@@ -1,5 +1,5 @@
 ﻿using Desafio;
 
-AutenticaUsuario autenticaUsuario = new AutenticaUsuario();
+SenhasDeAtendimento senhas = new SenhasDeAtendimento();
 
-autenticaUsuario.Executar();
+senhas.Acoes();
